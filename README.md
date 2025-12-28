@@ -109,7 +109,7 @@ Ensure you have **Python 3.8+** installed.
 
 ```bash
 # Clone the repository
-git clone <YOUR_REPO_URL>
+git clone https://github.com/ParthP1027/File-Organizer
 cd File-Organizer
 
 # Install dependencies
